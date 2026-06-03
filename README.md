@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 # High-Performance Computing & Climate Data Analytics Showcase
 
