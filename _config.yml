@@ -3,10 +3,16 @@ author:
   name: "IGomezLeal"
 description: "Astrophysics · Numerical Modeling · Data Science"
 
-# Cambiamos 'theme' por 'remote_theme' apuntando al repositorio oficial
-remote_theme: jekyll/minima
+# Usamos una versión estable específica para evitar errores de 2026
+remote_theme: "jekyll/minima@0b7ca6b"
+
+# Configuración obligatoria para Minima v3
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_username: IGomezLeal }
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
