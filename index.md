@@ -1,7 +1,6 @@
 
 ---
 layout: home
-title: Portfolio | Astrophysics & Data Science
 ---
 
 # High-Performance Computing & Climate Data Analytics Showcase
