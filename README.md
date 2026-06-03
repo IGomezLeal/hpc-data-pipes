@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 # High-Performance Computing & Climate Data Analytics Showcase
