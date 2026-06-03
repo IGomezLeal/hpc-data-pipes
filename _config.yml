@@ -3,10 +3,10 @@ author:
   name: "IGomezLeal"
 description: "Astrophysics · Numerical Modeling · Data Science"
 
-theme: minima
-
-github_username: IGomezLeal
+# Cambiamos 'theme' por 'remote_theme' apuntando al repositorio oficial
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
