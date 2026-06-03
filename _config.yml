@@ -8,3 +8,7 @@ plugins:
 # Minima-specific settings
 minima:
   skin: classic
+  
+# Esto le dice a Jekyll que procese los archivos de forma estricta
+markdown: kramdown
+highlighter: rouge
