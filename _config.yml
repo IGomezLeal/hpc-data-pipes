@@ -3,7 +3,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-include-cache
+  
 # Minima-specific settings
 minima:
   skin: classic
