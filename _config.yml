@@ -1,14 +1,12 @@
-# Settings
+title: "HPC & Climate Analytics Portfolio"
+author:
+  name: "IGomezLeal"
+description: "Astrophysics · Numerical Modeling · Data Science"
+
 theme: minima
+
+github_username: IGomezLeal
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache
-  
-# Minima-specific settings
-minima:
-  skin: classic
-  
-# Esto le dice a Jekyll que procese los archivos de forma estricta
-markdown: kramdown
-highlighter: rouge
