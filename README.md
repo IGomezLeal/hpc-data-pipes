@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # High-Performance Computing & Climate Data Analytics Showcase
 
 Technical summary focused on multi-terabyte data architecture, computational physics, and advanced climate engineering simulations within the [**Community Earth System Model**](https://www.cesm.ucar.edu/models) (CESM GCM) framework.
